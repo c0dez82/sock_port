@@ -1,6 +1,6 @@
 # sock_port
 
-iOS 10.0-12.2 tfp0 for all devices (in theory).
+iOS 10.0-12.2 tfp0 for all devices (in theory). Also supports iOS 12.4 (with lower success rate).
 
 Some info:
 - Uses socket bug by Ned Williamson
